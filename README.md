@@ -2,7 +2,7 @@
 
 ## Table of Contents:
 - [Dockerizing Your Django Project](#dockerizing-your-django-project)
-- [Run the dockerized project to another PC](#running-dockerized-django-project-on-another-pc)
+- [Running Dockerized Django Project on Another PC](#running-dockerized-django-project-on-another-pc)
 
 
 ## Dockerizing Your Django Project

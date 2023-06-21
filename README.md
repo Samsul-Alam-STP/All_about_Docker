@@ -1,11 +1,11 @@
 # All_about_Docker
 
 ## Table of Contents:
-- [Dockerizing Your Django Project](#Dockerizing_django)
-- [Conclusion](#Conclusion)
+- [Dockerizing Your Django Project](#dockerizing-your-django-project)
+- [Conclusion](#conclusion)
 
 
-## Dockerizing Your Django Project {#Dockerizing_django}
+## Dockerizing Your Django Project
 
 ### Step 1: Docker Installation
 Make sure you have Docker installed on your system. You can download and install Docker from the official Docker website [here](https://www.docker.com/get-started).
@@ -85,5 +85,5 @@ Replace `<container_id_or_name>` with the actual container ID or name of the con
 
 By following these steps, you can stop a running Docker container. Stopping a container gracefully allows it to clean up and exit properly. If you want to force-stop a container immediately without allowing it to clean up, you can use the `docker kill` command instead of `docker stop`.
 
-## Conclusion {#Conclusion}
+## Conclusion
 hi
